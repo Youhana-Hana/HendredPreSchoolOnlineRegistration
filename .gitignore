@@ -1,6 +1,6 @@
 # built application files
-node-modules/
-lib/
+node-modules
+lib
 *.js~
 *~
 *.log
